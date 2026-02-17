@@ -6,20 +6,14 @@ API REST para gerenciamento de cupons de desconto, desenvolvida com Spring Boot,
 
 🚀 Funcionalidades
 Cadastro de Cupom: Cria cupons com validação de regras de negócio (limpeza de caracteres especiais, tamanho de código e data de validade).
-
 Soft Delete: Exclusão lógica de cupons, mantendo os dados no banco para auditoria.
-
 Documentação: API documentada com Swagger UI.
 
 🛠️ Tecnologias
 Java 17
-
 Spring Boot 3
-
 Spring Data JPA
-
 H2 Database (Em memória)
-
 Docker & Docker Compose
 
 🏗️ Como Rodar o Projeto
